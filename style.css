@@ -1,0 +1,56 @@
+body{
+  background-image: url("immagine/background.jpg");
+  background-size:cover;
+}
+.marca{
+  width: 600px;
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 45px;
+}
+
+h1{
+  color:#00FF00;
+  font-size: 40px;
+}
+.centrale{
+padding-bottom: 150px;
+}
+#nomebox{
+  background-color: rgba(0,49,83,0.5);
+  width: 770px;
+  height: 920px;
+  margin-left: 280px;
+
+}
+.form{
+border: 20px solid #7fff00;
+margin-left: 150px;
+margin-right: 250px;
+}
+.cerca{
+  margin-top: 20px;
+  color:white;
+  font-size: 20px;
+}
+
+#mybox{
+  background-color:#ffbf00;
+  width:200px;
+  margin-top: zero;
+  color: #ffbf00;
+
+}
+#mybox1{
+  background-color:#00AB6B;
+    width:300px;
+    margin-top: zero;
+    color: #00AB6B;
+  }
+
+  #mybox2{
+  background-color:#DE3163;
+  width:100px;
+  margin-top: zero;
+  color:#DE3163;
+}
